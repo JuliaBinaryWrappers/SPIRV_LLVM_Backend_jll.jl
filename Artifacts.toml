@@ -1,0 +1,316 @@
+[[SPIRV_LLVM_Backend]]
+arch = "aarch64"
+git-tree-sha1 = "35c1196ec304ed870fabe05064513eee5c9ebe61"
+os = "macos"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "df4259ea5c4696b52f24d057b03686c4e04e05aff3d3c285a61d03205140de73"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.aarch64-apple-darwin.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0cb12b67c12d5edc3b3a6b826748fdb05c09ee44"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "17480ea604cdc5453035c649e24e1dffabc7a32d400702e1267dcd26ddb6edd1"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21b45d4db34ece5d11ba7d2523fc116f5a16ce96"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "a23725f22f17163eba6bb835f5f6f5327af618c54d47c48fca444a74540e1471"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cddbdacd092799df008f4a8fd3d63aefe7c3a6fd"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "e0f8cfa5b4da33caf98618aaf3b787e35745115f9ca5e95c785d19e8651b1d7f"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5e2b2a29b9978ec3cccd35c1d3a3c2038d292d50"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "be369de3e44cac2e7022be4e03b589e8fce1e929b3f8a2122cbb33c4bf7fa151"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "aarch64"
+git-tree-sha1 = "c318abeacfd42c30ed4ba3dd83b9936a9200c852"
+os = "freebsd"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "83d8229b4bee9270ea3beefff9d920dabca38a255dcc0c33ae3e1e3b804c270b"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.aarch64-unknown-freebsd.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "be7b278e41c17e421114a0895a347d2a331a2391"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "010062e177a5f579f450b89e035c521464d03222f7d544120290eaf0e0dc1164"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4d36a209906c094838b123acaede5d52ea8948bc"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "d9ef80c51c1dc182509134c52fd95fd787c67e7288487eaa3b23203f9bddb1da"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ddd2f1f9712b193f0cd158c5e5cfd8a5eb29bf9f"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "4c26ccecf41c3c15b11916e5304eb5cc7597af9fc7f6252c65ad943401b6c139"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c7a1bd5fb8a1049b0909bacf0c919c9a7f79731"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "46efc711d30564463e753dbed3699a86680d02ae634c36c883831a89a7684df2"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8c6ae6ddb1cb17f029ab60fa5600a05c2b2ec10c"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "b2aff13b97be4bf9ed37f7fa89f6b5079bdb1371287375ea0afa307a6a26190d"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b04d35a531f592a0fbd97d12364efc7522d0155"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "db78fc13b39477d3af7cdb3024714883c12e024fc5ba392d6de5d13fe1d1932f"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "de2921b1a87f34e659464b6921e74840817dbc69"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "c09c77e603555a0174616f3412afd579b1a55ac28e2b21b8b7e4bfdcce91f57c"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "532101d0cf0eb32059c686f9992cefb30f12e628"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "777eb8fa47be5a081af36d814a635d282269a0e2eee4124752e6d8a976797481"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4638143c1b0a4412b333afb69771293ae0cde4f3"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "9dab7eca4405450c22bef5ac888b8bc1561dbf4bb279ada20a2410a335645f68"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3a809c39b17b5e3ce1278247c66ec29cacd1986"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "4cbb19c563fb94e93c8da617768e8a830c3cad1fd1ebfeba2f18d6b0a5bae105"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "033622141d3942c27bd97fadf9237c3ef1680a74"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "ca86f55df2407e03e8597a4c15ff1a7d0054b29fc98aabde9b730f2972e6c1e8"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.i686-linux-musl-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fadc1bce2ed0a7162f850fc632afeaa421e5c624"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "3a291fa29ddb5800e2e6588c70d8a692e42cff40db205e31c57b18bfc1df7102"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.i686-linux-musl-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2ed3811ea8bf8d1ea362694006a02721e4ee62d0"
+os = "windows"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "d6fa52c291e5c312099d733fed8c8498080f932eb05fdbd926456c20ea9f3261"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "52e32815f064e37332e6c09c31a43a51bc489010"
+os = "windows"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "aa9164caccbdb1c26dc581dcb46ded0452a82820aee9a04ca9eef15e3e7cb34d"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "995710430f4ec5a74dd5bf04f28efa47e95118d9"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "0295fc10e68dd684ea6aa86fb1d19c32566c031e6845fc403ddb386154250662"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1992777c074fd1592cfa64371dd18c110493208d"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "92390b02f784009c480aae01571e4102fe235d44d43932106784ca5b17c88ada"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "20d0005e774acb7c9772c133a9197241fa3d9d6a"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "b8a9068cfb23e1e2106229b055cc7d942accafd0efef1fce586d8b7fa4fce46d"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18270e63a1fb8e94311770bf0e679b1ebc510ebe"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "d5a701c597cc778e2741322a91f35d0b6ba26fda1b468ddd79a7f82276ca5fd2"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "x86_64"
+git-tree-sha1 = "d892a56c8bc40dad4db833672f2399a35103c782"
+os = "macos"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "e5f47439b16993cf1f8c680498d0281105a7c1afd83512eb75c469ec52a94ecd"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.x86_64-apple-darwin.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "18cbcf33600d91493b1d80676ef34af85fad8c27"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "2f39850907203189fa4386f936ff3f98d05d2d77b83c54c27390ea7cfcfbc5de"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08dd4853927e8ef39a6e3921d32b5f948efe305d"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "c79bb63848d0123b2fb29fa3d6f607683f45ff694a6511d1ee8c4d59d1d7487c"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f95aa0a878bc95c4478a501ec4c23363b1f6313"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "0089aa257c83a4270bf5489e260c7baf3488234c40e520dd9c5868ebd27d3cb0"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3d3a6107cb067828b4bef92ac5b1bb7a21aa6c56"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "5d586d857498eba2d8047f6a62189bcf9042315bc48d134134372f78f3da0ecd"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "x86_64"
+git-tree-sha1 = "9e815c660c397a2946665e63fe6ea747321ba2b9"
+os = "freebsd"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "3cd74fbd27569762e70cfec6300ba4c838cffb5f426475ff37a8465b8c2eecf4"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.x86_64-unknown-freebsd.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ac095bd68d342cacbe7c48ac9d0bf790ff5ecc3e"
+os = "windows"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "adabe49c19c11e1154c3e978f3b63fe9dac25c7a50a70e7032db0f1e1b8ebe24"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[SPIRV_LLVM_Backend]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b43efa7c30f0bd249b1207d193703a76a73fe1b"
+os = "windows"
+
+    [[SPIRV_LLVM_Backend.download]]
+    sha256 = "0d136ffc204a0993499dc0aeda99f9fa4985e22af37d205cad4fed5a59711136"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_LLVM_Backend_jll.jl/releases/download/SPIRV_LLVM_Backend-v20.0.0+0/SPIRV_LLVM_Backend.v20.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
