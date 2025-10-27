@@ -1,6 +1,6 @@
 name = "SPIRV_LLVM_Backend_jll"
 uuid = "4376b9bf-cff8-51b6-bb48-39421dff0d0c"
-version = "20.1.5+3"
+version = "21.1.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
